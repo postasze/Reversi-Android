@@ -1,2 +1,2 @@
 # Reversi-Android
- Application of 2-players game – Reversi 2D
+ Android mobile application of 2-players game – Reversi 2D
